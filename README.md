@@ -10,8 +10,8 @@ The workspace contains two folders by default, where:
 - `lib`: the folder to maintain dependencies
 
 ## Dependency Management
-JAVAFX-SDK-15.0.1
-JDK-15.0.1
+JAVAFX-SDK-15.0.1,
+JDK-15.0.1,
 The `JAVA DEPENDENCIES` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-pack/blob/master/release-notes/v0.9.0.md#work-with-jar-files-directly).
 # National_Management_Park
 
