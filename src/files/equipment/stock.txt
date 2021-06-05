@@ -1,0 +1,14 @@
+Hand light,Tuscan,5
+Hand light,Strong Lux,3
+Whistle,Fox40,15
+Baton,Custom,15
+Cutting gears,Custom,30
+Buckets,RFL,30
+Electric gears,Custom,45
+First aid kit,Custom,150
+Chair,Custom,125
+Table,Custom,125
+Pen,Custom,325
+Benches,Custom,125
+Beverages,Custom,300
+Paddle lock,Custom,25

@@ -1,0 +1,86 @@
+#main {
+  -fx-background-color: #051b1ff5;
+}
+.tab-pane *.tab-header-area *.tab-header-background {
+  -fx-background-color: transparent;
+}
+
+.tab-pane {
+  -fx-tab-min-width: 60px;
+  -fx-tab-max-width: 600px;
+  -fx-tab-min-height: 25px;
+  -fx-tab-max-height: 25px;
+}
+
+.tab {
+  -fx-font-family: Arial;
+  -fx-font-weight: bold;
+  -fx-text-fill: white;
+  -fx-font-size: 18;
+  -fx-background-color: #29d45494;
+  -fx-opacity: 0.7;
+}
+
+.tab:selected {
+  -fx-background-color: #41c9eb;
+  -fx-opacity: 1;
+}
+
+
+#exit {
+  -fx-background-color: #df3e3ef5;
+}
+
+#hometaba {
+  -fx-background-color: #051b1ff5;
+  -fx-background-image: url("visiorbackground.jpg");
+  -fx-background-repeat: stretch;
+  -fx-background-size: 1040 800;
+  -fx-background-position: center center;
+}
+#gallerytaba {
+  -fx-background-color: #051b1ff5;
+  -fx-background-image: url("visiorbackground.jpg");
+  -fx-background-repeat: stretch;
+  -fx-background-size: 1040 650;
+  -fx-background-position: center center;
+}
+#purchasetaba {
+  -fx-background-image: url("visiorbackground.jpg");
+  -fx-background-repeat: stretch;
+  -fx-background-size: 1040 650;
+  -fx-background-position: center center;
+}
+#donationtaba {
+  -fx-background-image: url("visiorbackground.jpg");
+  -fx-background-repeat: stretch;
+  -fx-background-size: 1040 650;
+  -fx-background-position: center center;
+}
+#hometaba {
+  -fx-background-image: url("visiorbackground.jpg");
+  -fx-background-repeat: stretch;
+  -fx-background-size: 1040 650;
+  -fx-background-position: center center;
+}
+#contacttaba {
+  -fx-background-image: url("visiorbackground.jpg");
+  -fx-background-repeat: stretch;
+  -fx-background-size: 1040 650;
+  -fx-background-position: center center;
+}
+#feedbacktaba {
+  -fx-background-image: url("visiorbackground.jpg");
+  -fx-background-repeat: stretch;
+  -fx-background-size: 1040 650;
+  -fx-background-position: center center;
+}
+.button {
+  -fx-background-color: linear-gradient(#f2f2f2, #d6d6d6),
+    linear-gradient(#fcfcfc 0%, #d9d9d9 20%, #d6d6d6 100%),
+    linear-gradient(#dddddd 0%, #f6f6f6 50%);
+  -fx-background-radius: 8, 7, 6;
+  -fx-background-insets: 0, 1, 2;
+  -fx-text-fill: black;
+  -fx-effect: dropshadow(three-pass-box, rgba(0, 0, 0, 0.6), 5, 0, 0, 1);
+}

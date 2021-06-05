@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ScrollPane?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<ScrollPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="1050.0" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="scenes.visitor.homepart1Controller">
+   <content>
+      <AnchorPane fx:id="main" prefHeight="200.0" prefWidth="200.0">
+         <children>
+            <VBox alignment="CENTER" prefHeight="200.0" prefWidth="100.0">
+               <children>
+                  <Text fill="#090039" strokeType="OUTSIDE" strokeWidth="0.0" text="Biological diversity in the Lawachara National Park consists of 460 species, of which 167 species are plants, 4 amphibian species, 6 reptile species, 246 bird species, 20 mammal species, and 17 insect species. One of this is the critically endangered western hoolock gibbons, of which only 62 individuals remain in the area." textAlignment="CENTER" wrappingWidth="1027.13671875">
+                     <font>
+                        <Font name="System Bold" size="16.0" />
+                     </font>
+                  </Text>
+                  <HBox prefHeight="0.0" prefWidth="1028.0" />
+                  <Text fill="#090039" strokeType="OUTSIDE" strokeWidth="0.0" text="The forest of Lawachara is of a mixed type, with the understory usually composed of evergreens, including Quercus, Syzygium, Gmelina, Dillenia, Grewia, and Ficus. The upper canopy, meanwhile, is mainly composed of tall deciduous trees including Tectona, Artocarpus chaplasha, Tetrameles, Hopea odorata. Toona ciliata, and Pygenum. The original indigenous mixed tropical evergreen vegetation had been removed or replaced in the 1920s. It is now mostly secondary forest with small remnant areas of rich primary forest. In the undergrowth are bamboo groves of jai bansh (Bambusa burmanica) and muli bansh (Melocanna baccifera), as well as several fern species and other epiphytes.159 plant species belonging to 123 genera and 60 families were studied in 2010. It includes 78 species of trees, 14 species of shrubs, 42 species of herbs, and 25 species of climbers. Ficus (fig trees) and Syzygium (brush cherries), each with 7 species, were the most diverse genera. Other notable genera include Terminalia, Dioscorea (yams), Artocarpus, Calamus (rattan palm), Piper (pepper vines), Alpinia, and Curcuma. Threatened indigenous plant species include Bridelia retusa, Zanthoxylum rhetsa, Alstonia scholaris, Phyllanthus emblica, Cassia fistula, Orexylum indicum, Semocarpus anacardium, and Garuga pinnata.The western hoolock gibbon (Hoolock hoolock) is a higher primate found in India. It is one of the top 25 most endangered primates and one of the six non-human primate species found in Lawachara.[8] In a census in 2007, only 62 individuals in 17 groups were found in Lawachara and in the greater West Bhanugach Reserved Forest. Yet this is the biggest surviving gibbon population in Bangladesh. The Lawachara population is considered of critical importance as it is likely to be the last viable population of western hoolock gibbons that will survive into the next century. " textAlignment="CENTER" wrappingWidth="1027.13671875">
+                     <font>
+                        <Font name="System Bold" size="16.0" />
+                     </font>
+                  </Text>
+                  <HBox prefHeight="100.0" prefWidth="200.0" />
+                  <Text fill="#170a61" strokeType="OUTSIDE" strokeWidth="0.0" text="There are about eighteen villages near Lawachara. Two of them (Magurchara punji and Lawachara punji) are located within the boundaries of the park. Indigenous peoples in the area include the Christian Khasia people, the Hindu Tripuri people, the Tipra people, and the Monipuri people. The rest of the population are mostly Muslim migrants from Noakhali, Comilla, and Assam. There is a mosque located off Srimangal-Bhanugach Road called Lawachara Jame Mosque.Registered forest villagers have certain rights within the reserve. This includes wood collection for fuel and building materials, hunting, betel leaf production, grazing of livestock, harvesting of other forest products, and limited agriculture in allocated land. " textAlignment="CENTER" wrappingWidth="1027.13671875">
+                     <font>
+                        <Font name="System Bold" size="16.0" />
+                     </font>
+                  </Text>
+                  <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0">
+                     <children>
+                        <Button mnemonicParsing="false" onAction="#btn_return" prefHeight="150.0" prefWidth="50.0" text="Back" />
+                     </children>
+                  </HBox>
+               </children>
+            </VBox>
+         </children>
+      </AnchorPane>
+   </content>
+</ScrollPane>
